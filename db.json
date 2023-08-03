@@ -1,50 +1,18 @@
 {
-  "news": [
-  {
-    "url": "https://ria.ru/20230803/ekonomika-1887931538.html",
-    "image": "https://cdnn21.img.ria.ru/images/sharing/article/1887931538.jpg?18749194451691053622",
-    "title": "Песков заявил о неумолимом процессе дедолларизации мировой экономики",
-    "description": "Процесс дедолларизации мировой экономики неумолимо идет, многие страны тяготеют к траектории на использование национальных валют, сообщил пресс-секретарь... РИА Новости, 03.08.2023",
-    "site_name": "РИА Новости",
-    "date": "03.08.2023"
-  },
-  {
+    "featured" : [
+{
     "url": "https://www.rbc.ru/finances/02/08/2023/64ca38789a79471038392bfd",
     "image": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/346909805532697.jpg",
     "title": "Ситибанк ввел комиссию за внесение наличных долларов и евро",
-    "description": "Ситибанк будет брать с клиентов комиссию 5% за внесение наличных долларов и евро. Банки устанавливают такие тарифы на фоне падения курса рубля и увеличения притока наличных",
+    "content": "Ситибанк будет брать с клиентов комиссию 5% за внесение наличных долларов и евро. Банки устанавливают такие тарифы на фоне падения курса рубля и увеличения притока наличных",
     "site_name": "РБК",
     "date": "02.08.2023"
-  },
-  {
-    "url": "https://forklog.com/news/razrabotchiki-sui-realizovali-funktsiyu-likvidnogo-stejkinga",
-    "image": "https://forklog.com/wp-content/uploads/sui.webp",
-    "title": "Разработчики Sui реализовали функцию ликвидного стейкинга",
-    "description": "Стоящая за блокчейном Sui (SUI) команда Mysten Labs выпустила обновление, которое добавляет возможность ликвидного стейкинга нативной монеты.",
-    "site_name": "ForkLog",
-    "date": "03.08.2023"
-  },
-  {
-    "url": "https://forklog.com/news/kucoin-otklyuchit-majning-puly-bitkoina-i-litecoin",
-    "image": "https://forklog.com/wp-content/uploads/KuCoin-Web3-1.webp",
-    "title": "KuCoin отключит майнинг-пулы биткоина и Litecoin",
-    "description": "15 августа криптобиржа KuCoin временно остановит работу майнинговых пулов для первой криптовалюты и Litecoin (LTC).",
-    "site_name": "ForkLog",
-    "date": "03.08.2023"
-  },
-  {
-    "url": "https://forklog.com/news/consensys-obvinili-v-krazhe-idei-brauzernogo-ethereum-koshelka",
-    "image": "https://forklog.com/wp-content/uploads/Metamask_expl-min.webp",
-    "title": "ConsenSys обвинили в краже идеи браузерного Ethereum-кошелька",
-    "description": "Предприниматель Джоэл Дитц подал иск в отношении ConsenSys, компании-разработчика кошелька MetaMask, обвинив ее в краже интеллектуальной собственности.",
-    "site_name": "ForkLog",
-    "date": "03.08.2023"
   },
   {
     "url": "https://forklog.com/news/regulyator-avstralii-podal-v-sud-na-etoro-iz-za-vysokoriskovogo-produkta",
     "image": "https://forklog.com/wp-content/uploads/eToro-min.webp",
     "title": "Регулятор Австралии подал в суд на eToro из-за CFD",
-    "description": "Австралийская комиссия по инвестициям и ценным бумагам (ASIC) подала в суд на платформу eToro из-за претензий к ее линейке CFD.",
+    "content": "Австралийская комиссия по инвестициям и ценным бумагам (ASIC) подала в суд на платформу eToro из-за претензий к ее линейке CFD.",
     "site_name": "ForkLog",
     "date": "03.08.2023"
   },
@@ -52,9 +20,61 @@
     "url": "https://forklog.com/news/shest-kompanij-podali-zayavku-na-zapusk-ethereum-etf",
     "image": "https://forklog.com/wp-content/uploads/Ethereum_ETF-min.webp",
     "title": "Шесть компаний подали заявку на запуск Ethereum-ETF",
-    "description": "В SEC поступило шесть заявок на запуск ETF на базе биржевых фьючерсов на Ethereum.",
+    "content": "В SEC поступило шесть заявок на запуск ETF на базе биржевых фьючерсов на Ethereum.",
+    "site_name": "ForkLog",
+    "date": "05.08.2023"
+  }
+    ],
+
+  "latest_news": [
+  {
+    "url": "https://ria.ru/20230803/ekonomika-1887931538.html",
+    "image": "https://cdnn21.img.ria.ru/images/sharing/article/1887931538.jpg?18749194451691053622",
+    "title": "Песков заявил о неумолимом процессе дедолларизации мировой экономики",
+    "content": "Процесс дедолларизации мировой экономики неумолимо идет, многие страны тяготеют к траектории на использование национальных валют, сообщил пресс-секретарь... РИА Новости, 03.08.2023",
+    "site_name": "РИА Новости",
+    "date": "03.08.2023"
+  },
+  
+  {
+    "url": "https://forklog.com/news/razrabotchiki-sui-realizovali-funktsiyu-likvidnogo-stejkinga",
+    "image": "https://forklog.com/wp-content/uploads/sui.webp",
+    "title": "Разработчики Sui реализовали функцию ликвидного стейкинга",
+    "content": "Стоящая за блокчейном Sui (SUI) команда Mysten Labs выпустила обновление, которое добавляет возможность ликвидного стейкинга нативной монеты.",
     "site_name": "ForkLog",
     "date": "03.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/kucoin-otklyuchit-majning-puly-bitkoina-i-litecoin",
+    "image": "https://forklog.com/wp-content/uploads/KuCoin-Web3-1.webp",
+    "title": "KuCoin отключит майнинг-пулы биткоина и Litecoin",
+    "content": "15 августа криптобиржа KuCoin временно остановит работу майнинговых пулов для первой криптовалюты и Litecoin (LTC).",
+    "site_name": "ForkLog",
+    "date": "04.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/consensys-obvinili-v-krazhe-idei-brauzernogo-ethereum-koshelka",
+    "image": "https://forklog.com/wp-content/uploads/Metamask_expl-min.webp",
+    "title": "ConsenSys обвинили в краже идеи браузерного Ethereum-кошелька",
+    "content": "Предприниматель Джоэл Дитц подал иск в отношении ConsenSys, компании-разработчика кошелька MetaMask, обвинив ее в краже интеллектуальной собственности.",
+    "site_name": "ForkLog",
+    "date": "04.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/regulyator-avstralii-podal-v-sud-na-etoro-iz-za-vysokoriskovogo-produkta",
+    "image": "https://forklog.com/wp-content/uploads/eToro-min.webp",
+    "title": "Регулятор Австралии подал в суд на eToro из-за CFD",
+    "content": "Австралийская комиссия по инвестициям и ценным бумагам (ASIC) подала в суд на платформу eToro из-за претензий к ее линейке CFD.",
+    "site_name": "ForkLog",
+    "date": "03.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/shest-kompanij-podali-zayavku-na-zapusk-ethereum-etf",
+    "image": "https://forklog.com/wp-content/uploads/Ethereum_ETF-min.webp",
+    "title": "Шесть компаний подали заявку на запуск Ethereum-ETF",
+    "content": "В SEC поступило шесть заявок на запуск ETF на базе биржевых фьючерсов на Ethereum.",
+    "site_name": "ForkLog",
+    "date": "05.08.2023"
   }
 ]
 }
