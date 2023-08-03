@@ -1,14 +1,212 @@
 {
   "news": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+    "url": "https://ria.ru/20230803/ekonomika-1887931538.html",
+    "image": "https://cdnn21.img.ria.ru/images/sharing/article/1887931538.jpg?18749194451691053622",
+    "title": "Песков заявил о неумолимом процессе дедолларизации мировой экономики",
+    "description": "Процесс дедолларизации мировой экономики неумолимо идет, многие страны тяготеют к траектории на использование национальных валют, сообщил пресс-секретарь... РИА Новости, 03.08.2023",
+    "site_name": "РИА Новости",
+    "date": "03.08.2023"
+  },
+  {
+    "url": "https://www.rbc.ru/finances/02/08/2023/64ca38789a79471038392bfd",
+    "image": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/346909805532697.jpg",
+    "title": "Ситибанк ввел комиссию за внесение наличных долларов и евро",
+    "description": "Ситибанк будет брать с клиентов комиссию 5% за внесение наличных долларов и евро. Банки устанавливают такие тарифы на фоне падения курса рубля и увеличения притока наличных",
+    "site_name": "РБК",
+    "date": "02.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/razrabotchiki-sui-realizovali-funktsiyu-likvidnogo-stejkinga",
+    "image": "https://forklog.com/wp-content/uploads/sui.webp",
+    "title": "Разработчики Sui реализовали функцию ликвидного стейкинга",
+    "description": "Стоящая за блокчейном Sui (SUI) команда Mysten Labs выпустила обновление, которое добавляет возможность ликвидного стейкинга нативной монеты.",
+    "site_name": "ForkLog",
+    "date": "03.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/kucoin-otklyuchit-majning-puly-bitkoina-i-litecoin",
+    "image": "https://forklog.com/wp-content/uploads/KuCoin-Web3-1.webp",
+    "title": "KuCoin отключит майнинг-пулы биткоина и Litecoin",
+    "description": "15 августа криптобиржа KuCoin временно остановит работу майнинговых пулов для первой криптовалюты и Litecoin (LTC).",
+    "site_name": "ForkLog",
+    "date": "03.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/consensys-obvinili-v-krazhe-idei-brauzernogo-ethereum-koshelka",
+    "image": "https://forklog.com/wp-content/uploads/Metamask_expl-min.webp",
+    "title": "ConsenSys обвинили в краже идеи браузерного Ethereum-кошелька",
+    "description": "Предприниматель Джоэл Дитц подал иск в отношении ConsenSys, компании-разработчика кошелька MetaMask, обвинив ее в краже интеллектуальной собственности.",
+    "site_name": "ForkLog",
+    "date": "03.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/regulyator-avstralii-podal-v-sud-na-etoro-iz-za-vysokoriskovogo-produkta",
+    "image": "https://forklog.com/wp-content/uploads/eToro-min.webp",
+    "title": "Регулятор Австралии подал в суд на eToro из-за CFD",
+    "description": "Австралийская комиссия по инвестициям и ценным бумагам (ASIC) подала в суд на платформу eToro из-за претензий к ее линейке CFD.",
+    "site_name": "ForkLog",
+    "date": "03.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/shest-kompanij-podali-zayavku-na-zapusk-ethereum-etf",
+    "image": "https://forklog.com/wp-content/uploads/Ethereum_ETF-min.webp",
+    "title": "Шесть компаний подали заявку на запуск Ethereum-ETF",
+    "description": "В SEC поступило шесть заявок на запуск ETF на базе биржевых фьючерсов на Ethereum.",
+    "site_name": "ForkLog",
+    "date": "03.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/genesis-digital-assets-zapustila-tri-novyh-data-tsentra-dlya-majninga-bitkoinov",
+    "image": "https://forklog.com/wp-content/uploads/Green_Bitcoin-min.webp",
+    "title": "Genesis Digital Assets запустила три новых дата-центра для майнинга биткоинов",
+    "description": "Американская майнинговая компания Genesis Digital Assets (GDA) запустила на востоке штата Южная Каролина три новых дата-центра для добычи первой криптовалюты.",
+    "site_name": "ForkLog",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/dzhess-pauell-usomnilsya-v-perspektivah-perezapuska-ftx",
+    "image": "https://forklog.com/wp-content/uploads/kraken-3.webp",
+    "title": "Джесс Пауэлл усомнился в перспективах перезапуска FTX",
+    "description": "Соучредитель криптовалютной биржи Kraken Джесс Пауэлл поставил под сомнение жизнеспособность планов возрождения рухнувшей торговой платформы FTX.",
+    "site_name": "ForkLog",
+    "date": "02.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/v-grayscale-svyazali-perspektivy-bitkoina-s-myagkoj-posadkoj-vvp-ssha",
+    "image": "https://forklog.com/wp-content/uploads/grayscale_expl-min.webp",
+    "title": "В Grayscale связали перспективы биткоина с «мягкой посадкой» ВВП США",
+    "description": "Отскок крипторынка в этом году реализуется, если экономике США удастся добиться «мягкой посадки». Об этом заявил аналитик Grayscale Investments Зак Пандл.",
+    "site_name": "ForkLog",
+    "date": "02.08.2023"
+  },
+  {
+    "url": "https://www.fxteam.ru/finance/269786.html",
+    "image": "https://www.fxteam.ru/files/images/finance/130.jpg",
+    "title": "Цены на нефть взлетели на 13% -  31 июль 2023",
+    "description": "Цены на нефть марки Brent взлетели на 13% в июле. Подходящий к концу месяц может стать лучшим за последние полтора года. Цены на нефть марки Brent в п...",
+    "site_name": "FxTeam",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://www.fxteam.ru/finance/269863.html",
+    "image": "https://www.fxteam.ru/files/images/finance/111.jpg",
+    "title": "Индекс Мосбиржи вернулся к уровням до начала СВО -  01 август 2023",
+    "description": "Индекс Мосбиржи вернулся к уровням до начала спецоперации на Украине. Поддержку рынку акций оказывают рост цен на нефть, корпоративные новости и ослаб...",
+    "site_name": "FxTeam",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/majk-novograts-svyazal-rost-bitkoina-s-frs-i-resheniem-po-etf-ot-blackrock",
+    "image": "https://forklog.com/wp-content/uploads/mike_novogratz-min.webp",
+    "title": "Майк Новограц связал рост биткоина с ФРС и решением по ETF от BlackRock",
+    "description": "CEO Galaxy Digital Майк Новограц: подача BlackRock заявки на запуск биткоин-ЕTF — часть «цикла принятия», который позволит цене превысить ATH.",
+    "site_name": "ForkLog",
+    "date": "02.08.2023"
+  },
+  {
+    "url": "https://forklog.com/news/wsj-na-kitajskij-rynok-prishlos-20-torgovogo-oborota-binance",
+    "image": "https://forklog.com/wp-content/uploads/Binance_Smart_Chain-min.webp",
+    "title": "WSJ: на китайский рынок пришлось 20% торгового оборота Binance",
+    "description": "WSJ: Объем сделок трейдеров из Китая на Binance в мае 2023 года достиг $90 млрд, на эту страну пришлась пятая часть суммарного показателя биткоин-биржи.",
+    "site_name": "ForkLog",
+    "date": "02.08.2023"
+  },
+  {
+    "url": "https://www.rbc.ru/finances/02/08/2023/64c9c27a9a79477758f45060",
+    "image": "https://s0.rbk.ru/v6_top_pics/media/img/0/80/346909860636800.jpg",
+    "title": "Инвестор впервые получил право разблокировать ценные бумаги в Euroclear",
+    "description": "Инвестор, у которого есть европейский ВНЖ, смог обжаловать решение об отказе в разблокировке ценных бумаг в Euroclear",
+    "site_name": "РБК",
+    "date": "02.08.2023"
+  },
+  {
+    "url": "https://www.rbc.ru/finances/02/08/2023/64c96ee39a79476931a7c22c",
+    "image": "https://s0.rbk.ru/v6_top_pics/media/img/7/45/346909291736457.jpg",
+    "title": "Мосбиржа пригрозила убрать акции «Детского мира» из котировального списка",
+    "description": "Мосбиржа выявила несоответствие правилам листинга в части корпоративного управления, в связи с чем акции «Детского мира» могут исключить из первого уровня котировального списка. Компании дали три месяца, чтобы исправить нарушение",
+    "site_name": "РБК",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://www.fxteam.ru/finance/269847.html",
+    "image": "https://www.fxteam.ru/files/images/finance/305_rouble.jpg",
+    "title": "Что ждёт рубль в августе и когда покупать валюту? -  01 август 2023",
+    "description": "Рубль завершил июль ослаблением к доллару, евро и юаню. По итогам месяца курс доллара вырос на 2,3%, до 91,60 руб./$, евро  mdash; на 3,1%, до 100,80...",
+    "site_name": "FxTeam",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://www.fxteam.ru/finance/269927.html",
+    "image": "https://www.fxteam.ru/files/images/finance/328_USD.jpg",
+    "title": "Доллар подскочил после неожиданного решения Fitch по кредитному рейтингу США -  02 август 2023",
+    "description": "Доллар усилил рост в среду после неожиданного понижения кредитного рейтинга США. Индекс доллара обновил максимумы почти за 4 недели около 102,8. Фондо...",
+    "site_name": "FxTeam",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://www.fxteam.ru/finance/269865.html",
+    "image": "https://www.fxteam.ru/files/images/finance/363.jpg",
+    "title": "Morgan Stanley рассказал, что ждать от рынка акций в 2023 году -  02 август 2023",
+    "description": "Рынок акций США демонстрирует самую длинную месячную серию роста за два года. Рост фондовых активов начинает носить более широкий характер. Ситуация н...",
+    "site_name": "FxTeam",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://www.fxteam.ru/finance/269932.html",
+    "image": "https://www.fxteam.ru/files/images/finance/095.jpg",
+    "title": "Рубль рухнул, обновив «дно» с весны 2022 года -  03 август 2023",
+    "description": "Рубль резко упал в среду, обновив минимумы с конца марта прошлого года. Падению рубля способствовало бегство из рисковых активов после снижения сувере...",
+    "site_name": "FxTeam",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://ru.euronews.com/2023/08/02/portugal-pope-visit",
+    "image": "https://static.euronews.com/articles/stories/07/79/75/32/1000x563_cmsv2_af5fef5d-ac3e-5d40-b2b0-f00144c5183a-7797532.jpg",
+    "title": "Папа римский призвал Европу найти пути для достижения мира в Украине ",
+    "description": "Глава римско-католической церкви совершает апостольский визит в Португалию. Франциск принимает участие в мероприятиях по случаю Всемирного дня молодежи. ",
+    "site_name": "euronews",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://ru.euronews.com/2023/08/03/trump-prepares-for-court-hearing",
+    "image": "https://static.euronews.com/articles/stories/07/79/78/46/1000x563_cmsv2_6afe4e2f-cbb2-54f6-a299-84df5ff9a2df-7797846.jpg",
+    "title": "Трамп готовится к слушаниям в Вашингтонском суде",
+    "description": "Дональд Трамп готовится к судебным слушаниям в Вашингтоне (округ Колумбия) по обвинению в попытке отменить результаты президентских выборов в США 2020 года с целью остаться у власти.",
+    "site_name": "euronews",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://www.rbc.ru/finances/01/08/2023/64c8c6679a79475b06e5652e",
+    "image": "https://s0.rbk.ru/v6_top_pics/media/img/2/37/346908842260372.jpg",
+    "title": "Австрийский Raiffeisen оценил потери от ослабления рубля в €856 млн",
+    "description": "Ослабление рубля сократило доходы Raiffeisenbank на €856 млн. Впрочем, «дочка» в России все-таки принесла австрийской группе более половины ее прибыли",
+    "site_name": "РБК",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://www.rbc.ru/rbcfreenews/64c8b4199a7947a072d095c9",
+    "image": "https://s0.rbk.ru/v6_top_pics/media/img/5/12/346908809814125.jpg",
+    "title": "Полиция задержала подделывающих стодолларовые купюры фальшивомонетчиков",
+    "description": "Полиция задержала в Пензе группу фальшивомонетчиков, которые подделывали стодолларовые купюры. Об этом сообщила официальный представитель МВД России Ирина Волк. По ее словам, международная группа ...",
+    "site_name": "РБК",
+    "date": "01.08.2023"
+  },
+  {
+    "url": "https://www.rbc.ru/rbcfreenews/64c12ae19a7947c31dc94c94",
+    "image": "https://s0.rbk.ru/v6_top_pics/media/img/8/05/346908416545058.jpg",
+    "title": "В России заработал закон о цифровом рубле",
+    "description": "В России вступил в силу закон о цифровом рубле — третьей форме денег, наряду с наличными и безналичными. Но в широкое обращение он пока не попадет, ЦБ намерен запустить лишь тестирование цифрорубля на реальных клиентах банков",
+    "site_name": "РБК",
+    "date": "31.07.2023"
+  },
+  {
+    "url": "https://www.rbc.ru/finances/30/07/2023/64c28c869a7947512a9d0103",
+    "image": "https://s0.rbk.ru/v6_top_pics/media/img/4/75/346907052114754.jpg",
+    "title": "Акции обогнали валюту: какие средства вложений стали выбирать россияне",
+    "description": "Акции компаний за последние четыре года обогнали иностранную валюту по популярности куда россияне предпочитают вкладывать свои деньги. Это следует из опроса НАФИ. Так, в июле 2023 года в числе ...",
+    "site_name": "РБК",
+    "date": "30.07.2023"
   }
+]
 }
